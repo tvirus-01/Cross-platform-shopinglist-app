@@ -5,5 +5,5 @@
 
 	Nothing special just for fun.
 
-	Like it then like it, don't like it then follow.
+	If you like it then press star icon, if you don't like it then press follow button ;)
 </span>
