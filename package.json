@@ -1,0 +1,14 @@
+{
+  "name": "shoping-list",
+  "version": "1.0.0",
+  "description": "basic shopinglist desktop app with javascript ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "T-virus",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^3.0.10"
+  }
+}
